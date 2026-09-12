@@ -27,7 +27,7 @@ The dashboard provides insights into sales performance, profit, orders, products
 
 ## 📸 Dashboard Preview
 
-![Dashboard](screenshots/dashboard.png)
+(screenshots/dashboard.png)
 
 ## 📂 Files
 
